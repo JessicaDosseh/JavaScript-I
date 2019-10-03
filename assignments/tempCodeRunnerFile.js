@@ -1,1 +1,1 @@
-console.log(lastcarDescription);
+console.log(JSON.stringify(BMWAndAudi));
